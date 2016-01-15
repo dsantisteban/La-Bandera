@@ -1,0 +1,19 @@
+.Amarillo{
+
+	height: 100px;
+	width: 200px;
+	background-color: #FFFF00;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.Rojo{
+
+	height: 100px;
+	width: 200px;
+	background-color: #FF0000;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
